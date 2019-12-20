@@ -10,7 +10,7 @@ soma += 1;
 //#5
 soma *= 3;
 //#6
-24
+72
 //#7
 var souninja = true;
 //#8
@@ -24,7 +24,7 @@ soma === myvar;
 myvar <= soma;
 //#12
 function divisao(x, y) {
-	return x + y;
+	return x / y;
 }
 divisao();
 //#13
